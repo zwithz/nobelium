@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'Zack\'s Blog',
   author: 'Zack Zhou',
-  email: ' zwithz1998@gmail(dot)com',
+  email: ' zwithz1998@gmail.com',
   link: 'https://nobelium.vercel.app',
   description: 'Coder👨🏻‍💻 && Plogger🗣 && 摄影爱好者📸',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
