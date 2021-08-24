@@ -1,7 +1,7 @@
 const BLOG = {
   title: "zwithz",
   author: "Zack Zhou",
-  email: " zwithz1998@gmail.com",
+  email: "zwithz1998@gmail.com",
   link: "https://blog.zackzhou.com",
   description: "",
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
